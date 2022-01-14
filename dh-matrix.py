@@ -74,3 +74,5 @@ for k in range(1,value+1):
 
 print(maty)
 		
+def output():
+	return maty
